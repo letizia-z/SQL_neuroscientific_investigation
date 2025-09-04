@@ -1,4 +1,7 @@
-# 🧠 Neuroscientific Database – SQL Project
+![SQL](https://img.shields.io/badge/Made%20with-SQL-blue?logo=postgresql) 
+![Jupyter Notebook](https://img.shields.io/badge/Uses-Jupyter%20Notebook-orange?logo=jupyter)
+
+# 🧠 Neuroscientific Database Project
 This repository contains a **database project** developed in Google Colab using **DuckDB**, as part of a university exam. The goal was to design, implement, and query a relational database for organizing neuroscientific studies that investigate the relationship between specific **brain areas** and **cognitive functions** using modern neuroimaging and stimulation techniques.
 
 ## 📌 Project Overview
